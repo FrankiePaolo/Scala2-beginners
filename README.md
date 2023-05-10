@@ -1,2 +1,2 @@
 # Scala2-beginners
-Code for the scala2 beginners course
+Code for the scala2 beginners course from RockTheJvm
